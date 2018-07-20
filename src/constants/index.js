@@ -1,0 +1,1 @@
+export const LYFE_CORE_API_URL = 'http://lyferx-core.dev/v1'

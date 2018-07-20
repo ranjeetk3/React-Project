@@ -1,0 +1,43 @@
+@font-face{
+font-family:"Proxima Nova A W07 Black";
+src:url("../fonts/1539028/e41bdd70-cdf9-4af7-b1e5-2cfe626eabf2.eot?#iefix");
+src:url("../fonts/1539028/e41bdd70-cdf9-4af7-b1e5-2cfe626eabf2.eot?#iefix") format("eot"),url("../fonts/1539028/191a9b3f-2114-4e80-b1df-2ddee6be84ee.woff2") format("woff2"),url("../fonts/1539028/320297fd-cfc8-4bbf-955d-d5f2a5878e12.woff") format("woff"),url("../fonts/1539028/c42c2b3d-d899-4fb5-a09a-a7a5a7046e4d.ttf") format("truetype");
+}
+@font-face{
+font-family:"Proxima Nova A W07 Light";
+src:url("../fonts/1539038/ef135d99-9e0b-43be-8089-9861a2a60778.eot?#iefix");
+src:url("../fonts/1539038/ef135d99-9e0b-43be-8089-9861a2a60778.eot?#iefix") format("eot"),url("../fonts/1539038/af1322a5-ea84-44b5-bdc9-d0dd9b0b29fd.woff2") format("woff2"),url("../fonts/1539038/e5e0d8a9-e3ae-4b0c-88d3-ff54ddd7f686.woff") format("woff"),url("../fonts/1539038/80ca000e-e87a-4a97-a9e2-3c89977fffce.ttf") format("truetype");
+}
+@font-face{
+font-family:"Proxima Nova A W07 Regular";
+src:url("../fonts/1539042/4d54327f-d317-4d88-bdac-1edbd6f9b677.eot?#iefix");
+src:url("../fonts/1539042/4d54327f-d317-4d88-bdac-1edbd6f9b677.eot?#iefix") format("eot"),url("../fonts/1539042/1bfff5fb-2540-4d1d-9f13-0afec7ba3c41.woff2") format("woff2"),url("../fonts/1539042/be2bfc33-e5c3-4b44-9c4d-3f1249e26a5a.woff") format("woff"),url("../fonts/1539042/a46943c3-227c-44d3-aa50-e5f87f7cec12.ttf") format("truetype");
+}
+@font-face{
+font-family:"Proxima Nova A W07 Semibold";
+src:url("../fonts/1539044/04b51238-e986-4565-a16d-5bff2a5d676c.eot?#iefix");
+src:url("../fonts/1539044/04b51238-e986-4565-a16d-5bff2a5d676c.eot?#iefix") format("eot"),url("../fonts/1539044/53b0f583-1678-4d9f-8b22-3092a6da1163.woff2") format("woff2"),url("../fonts/1539044/8055f2d1-51bc-4057-b927-e8b7d40d1fe5.woff") format("woff"),url("../fonts/1539044/905555c5-adce-4189-8bd7-58f6f6ddadfd.ttf") format("truetype");
+}
+@font-face{
+font-family:"Proxima Nova S W07 Bold";
+src:url("../fonts/1539058/f358a1e4-dd9c-4ce1-afbf-bbef9c47aea5.eot?#iefix");
+src:url("../fonts/1539058/f358a1e4-dd9c-4ce1-afbf-bbef9c47aea5.eot?#iefix") format("eot"),url("../fonts/1539058/f6be7c2c-f5b8-4a8b-9060-cb0780a90515.woff2") format("woff2"),url("../fonts/1539058/f17bb084-2cf8-4879-8af9-8664ba738cc1.woff") format("woff"),url("../fonts/1539058/77574227-edba-4633-abbc-132a80e8c585.ttf") format("truetype");
+}
+@font-face{
+font-family:"Proxima Nova A W10 Thin";
+src:url("../fonts/1539910/e356ab00-5767-403d-9740-a476366b1ccb.eot?#iefix");
+src:url("../fonts/1539910/e356ab00-5767-403d-9740-a476366b1ccb.eot?#iefix") format("eot"),url("../fonts/1539910/31372f93-77a7-4a7a-9ff2-5eb54ff0bd58.woff2") format("woff2"),url("../fonts/1539910/ec392d7f-700a-4d5c-8505-d1c32471dcc6.woff") format("woff"),url("../fonts/1539910/9b9b56ae-99ab-4139-af3f-760c649a135d.ttf") format("truetype");
+}
+@font-face{
+font-family:"Proxima Nova S W10 Thin";
+src:url("../fonts/1539934/7070e7c8-73d0-4941-b15e-4e9d1f0e1a98.eot?#iefix");
+src:url("../fonts/1539934/7070e7c8-73d0-4941-b15e-4e9d1f0e1a98.eot?#iefix") format("eot"),url("../fonts/1539934/833e91b5-91bd-421c-8b51-ddd4561dc215.woff2") format("woff2"),url("../fonts/1539934/4910305b-8041-44bb-862a-b9c5ee0cef88.woff") format("woff"),url("../fonts/1539934/0537697e-e173-4c42-ac90-d1a0daa25fe8.ttf") format("truetype");
+}
+@font-face{
+font-family:"Proxima Nova Alt W03 Extrabold";
+src:url("../fonts/1540393/eaffcc3a-8b48-4e09-b09d-419c1ddf4571.eot?#iefix");
+src:url("../fonts/1540393/eaffcc3a-8b48-4e09-b09d-419c1ddf4571.eot?#iefix") format("eot"),url("../fonts/1540393/ced073da-c451-4dea-99e1-6ebffd7a02c1.woff2") format("woff2"),url("../fonts/1540393/6f12632d-c10c-4b34-9ae8-50ab8eb604e5.woff") format("woff"),url("../fonts/1540393/2e549e47-584f-442c-b25c-59c6619ed0db.ttf") format("truetype");
+}
+#root{
+	font-family:"Proxima Nova A W07 Regular";
+}

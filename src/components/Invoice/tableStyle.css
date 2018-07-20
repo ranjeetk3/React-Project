@@ -1,0 +1,87 @@
+.react-bs-table thead .columHeight{
+	background:#f5f8fa;	
+	border-bottom: 0;
+	height: 34px;
+    padding: 0px 10px;
+	color:#7f8fa4;
+	font-size:13px;
+	padding:0px 10px;
+	border-right:0px;
+	
+}
+
+.columBorder{
+	border-top: 1px solid #ddd;
+	border-bottom: 1px solid #ddd;
+	border-right:0px !important;
+	border-left:0px !important;
+	}
+	
+.table > thead > tr > th {
+  	padding:0px;
+}	
+	
+.table-bordered > tbody > tr > td {
+	border-top: 1px solid #ddd;
+	border-bottom: 1px solid #ddd;
+	border-right:0px !important;
+	border-left:0px !important;
+	/* padding:15px 25px  !important; */
+	color:#333c48;
+	font-size:14px;
+	white-space:normal;
+/* 	overflow: inherit;
+	text-overflow: inherit; */
+	/* word-break: break-all; */
+	}
+	
+.left-red-border{
+border-left:#d65b4a solid 3px;
+}
+
+.btn-success{
+margin-left:10px;}
+
+.form-control {width:70% !important; float:right !important; margin-bottom:10px !important; margin-right:20px !important;}
+
+.table > thead:first-child > tr:first-child > th{ padding-left: 25px;}
+.react-bs-table .table-bordered > tbody > tr > td:first-child{ padding-left: 25px;}
+.react-bs-table{margin:0px; border-radius: 0px; border-top: 1px solid #ddd; border-right:0px; border-left:0px; border-bottom:0px;}
+.react-bs-table-pagination { margin: 10px; padding-left: 12px;}
+
+
+.pagination {margin-right:12px !important;}
+
+.caret {color:#7f8fa4 !important;}
+
+.btn-success {margin-left:0px !important;}
+.table-bordered>thead>tr>th {border:0px !important;}
+
+.dropup .caret{content: "";
+    border-top: 0;
+    right: 0px;
+    top: -8px;
+    position: absolute;
+   border-bottom: 4px dashed;}
+
+  .table > thead:first-child > tr> th:first-child {background:#f5f8fa;	} 
+   
+  .table > tbody > tr > td {vertical-align: middle;}
+   
+   
+@media (max-width:767px) {
+.form-control{margin-top:20px; width:100% !important; margin-right:0px !important; }
+.table > thead:first-child > tr:first-child > th{padding-left:0px;}
+.react-bs-table table td{text-overflow: ellipsis; overflow: inherit;}
+.table > thead:first-child > tr > th:first-child {width:38px!important; }
+
+}
+
+
+@media screen and (min-width:768px) and (max-width:1024px){
+.table > thead:first-child > tr:first-child > th{padding-left:0px;}
+.react-bs-table table td{overflow: inherit;} 
+.table > thead:first-child > tr > th:first-child {width:38px!important; }
+.table > thead:first-child > tr:first-child > th{padding-left:0px;}
+
+}

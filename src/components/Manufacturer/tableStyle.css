@@ -1,0 +1,58 @@
+.react-bs-table thead .columHeight{
+	background:#f5f8fa;	
+	border-bottom: 0;
+	height: 34px;
+  padding: 0px 10px;
+	color:#7f8fa4;
+	font-size:13px;
+	padding:0px 10px;
+	
+}
+
+.columBorder{
+	border-top: 1px solid #ddd;
+	border-bottom: 1px solid #ddd;
+	border-right:0px !important;
+	border-left:0px !important;
+	}
+	
+	
+.table-bordered > tbody > tr > td {
+	border-top: 1px solid #ddd;
+	border-bottom: 1px solid #ddd;
+	border-right:0px !important;
+	border-left:0px !important;
+	/* padding:15px 25px  !important; */
+	padding:18px 0px 18px 25px !important;
+	color:#333c48;
+	font-size:14px;
+	white-space:normal;
+/* 	overflow: inherit;
+	text-overflow: inherit; */
+	/* word-break: break-all; */
+	}
+	
+.left-red-border{
+border-left:#d65b4a solid 3px;
+}
+
+.btn-success{
+margin-left:10px;}
+
+.form-control {width:70% !important; float:right !important; margin-bottom:10px !important; margin-right:20px !important;}
+
+.table > thead:first-child > tr:first-child > th{ padding-left: 25px;}
+.react-bs-table .table-bordered > tbody > tr > td:first-child{ padding-left: 25px;}
+
+.react-bs-table-pagination {
+    margin: 10px; padding-left: 12px;}
+		
+.pagination {margin-right:12px !important;}
+
+.caret {color:#7f8fa4 !important; margin: 10px 0px 10px 0px!important;}
+
+
+@media (max-width:767px) {
+.form-control{margin-top:20px; width:100% !important; margin-right:0px !important; }
+
+}
